@@ -79,8 +79,4 @@ Abra o navegador no endereço `http://localhost:8501`.
 - Analisar variações térmicas diárias para compreender o impacto do ambiente ou operação dos dispositivos.
 
 ---
-
-## Capturas de Tela
-
-*(Inclua aqui imagens do dashboard mostrando os gráficos gerados)*
-
+#
